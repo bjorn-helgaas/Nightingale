@@ -84,9 +84,9 @@ NOTE: The end cap is a standard part and can be obtained elsewhere from TNutz, 8
 ## Interior Components 
 | Quantity | Item | Description | Cost | Link  |
 | -------- | -----| --------- | ---- | ----- | 
-| 1 | 5-Pack of Artic P14 PC Fans | Discounted pack of 5 fans | $35 | [LINK](https://www.amazon.com/dp/B07HC9ZWDN?psc=1&ref=ppx_yo2ov_dt_b_product_details) |
-| 1 | Artic P14 PC Fans | Single P14 PC Fan (to make 6 total) | $16 | [LINK](https://www.amazon.com/dp/B07GZJY4TM?psc=1&ref=ppx_yo2ov_dt_b_product_details) |
-| 2 | 3-pack of 140 mm fan grills | Covers the fan for safety | $9 | [LINK](https://www.amazon.com/dp/B01BW21DXC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+| 1 | 5-Pack of Arctic P14 PC Fans | Discounted pack of 5 fans | $35 | [LINK](https://www.amazon.com/dp/B07HC9ZWDN?psc=1&ref=ppx_yo2ov_dt_b_product_details) |
+| 1 | Arctic P14 PC Fans | Single P14 PC Fan (to make 6 total) | $16 | [LINK](https://www.amazon.com/dp/B07GZJY4TM?psc=1&ref=ppx_yo2ov_dt_b_product_details) |
+| 2 | 3-pack of 140 mm fan grilles | Covers the fan for safety | $9 | [LINK](https://www.amazon.com/dp/B01BW21DXC?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 | 1 | Adafruit DC Barrel Adapter | Using a 1" hole, this screws on the panel and provides a nice way to plug in the outside AC/DC power adapter | $3 plus shipping | [LINK](https://www.adafruit.com/product/610)
 | 1 | AC/DC Adapter | Needs to be compatible with power where you are plugging it in (normally 110 volts in the US) and change to 12 volt, ~2 amp DC power | $5/each | [LINK](https://www.amazon.com/dp/B077PW5JC3?ref=ppx_yo2ov_dt_b_product_details&th=1)
 | 1 | PWM Fan Hub | Connects all the fans to single power cable | $6 | [LINK](https://www.amazon.com/dp/B08C79CQH5?psc=1&ref=ppx_yo2ov_dt_b_product_details)
@@ -97,8 +97,8 @@ NOTE: The end cap is a standard part and can be obtained elsewhere from TNutz, 8
 | 1 | DC to LED light connector | Connects DC power to 2 pin LED lights that are 8 mm wide | $1/each | [LINK](https://www.amazon.com/dp/B01DM7F8O0?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 | 1 | String of 8mm LED lights | Any solid color, can be cut at specific intervals | $12 | [LINK](https://www.amazon.com/gp/product/B075LB9HK2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1)
 | 1 | 20-pack of 1010 L-Shape Corner Connectors | Used to connect the aluminum pieces into a box | $28 | [LINK](https://www.amazon.com/dp/B09F67JQR1)
-| 1 | 30-count M4 x 40-mm machine screws | To attach the grill to the fans and the fans to the panel, you need some relatively long machine screws. I think this is the right length to go the entire length of the fan. However, I did it the harder way with 2 screws and bolts per hole. If you find out 40mm is wrong (or you find the right imperial version, let me know) | $6 | [LINK](https://www.lowes.com/pd/Hillman-4mm-0-7-x-40mm-Phillips-Slotted-Combination-Drive-Machine-Screws-30-Count/999994818)
-| 2 | 16-count M4 nuts | To attach the grill to the fans and the fans to the panel, you need some relatively long machine screws | $3/each | [LINK](https://www.lowes.com/pd/Hillman-4mm-x-0-7-Zinc-Plated-Steel-Hex-Nut-16-Count/999995424)
+| 1 | 30-count M4 x 40-mm machine screws | To attach the grille to the fans and the fans to the panel, you need some relatively long machine screws. I think this is the right length to go the entire length of the fan. However, I did it the harder way with 2 screws and bolts per hole. If you find out 40mm is wrong (or you find the right imperial version, let me know) | $6 | [LINK](https://www.lowes.com/pd/Hillman-4mm-0-7-x-40mm-Phillips-Slotted-Combination-Drive-Machine-Screws-30-Count/999994818)
+| 2 | 16-count M4 nuts | To attach the grille to the fans and the fans to the panel, you need some relatively long machine screws | $3/each | [LINK](https://www.lowes.com/pd/Hillman-4mm-x-0-7-Zinc-Plated-Steel-Hex-Nut-16-Count/999995424)
 | 2 | Plastic Handle | Screws into the wood slot and makes carrying the unit easier. | $5/each | [LINK](https://www.tnutz.com/product/han-015/)
 | 2 | Tiny wood screws | To mount the motion sensor into the wood panel, you need some very small screws. Recommended size is about <.5" in length. You likely have something already that would work.
 
@@ -107,7 +107,7 @@ NOTE: The end cap is a standard part and can be obtained elsewhere from TNutz, 8
 | -------- | -----| --------- | ---- | ----- | 
 | 2 | MERV 13 20x20x2 Furnace Filter | Filter medium | $10/each | [LINK](https://www.amazon.com/gp/product/B0BL4XBTLN?th=1) |
 
-Note: 20x20 furnace filters are NOT 20" long. They are always a little smaller. I designed this purifier to fit a filter with an actual filter size of 19 1/2" x 19 1/2". I do not know how much the furnace filter size varies by manufacturers other than the one above, but I do know most of them are smaller than 20". If your filter is bigger than 19 1/2" it likely won't fit this case. You can make the case a little larger while connecting with the l-connectors to accommodate, but at a certain size the panels won't fit. If the furnace filter is smaller than 19 1/2", probably not a big deal as you can always add foam tape to the outside to get a more snug fit. 
+Note: 20x20 furnace filters are NOT 20" long. They are always a little smaller. I designed this purifier to fit a filter with an actual filter size of 19 1/2" x 19 1/2". I do not know how much the furnace filter size varies by manufacturers other than the one above, but I do know most of them are smaller than 20". If your filter is bigger than 19 1/2" it likely won't fit this case. You can make the case a little larger while connecting with the L-connectors to accommodate, but at a certain size the panels won't fit. If the furnace filter is smaller than 19 1/2", probably not a big deal as you can always add foam tape to the outside to get a more snug fit. 
 
 ## Other Parts and Tools
 - Screwdriver - Connecting the fans to the panels
@@ -122,7 +122,7 @@ Note: 20x20 furnace filters are NOT 20" long. They are always a little smaller. 
 
 ![SquareAssembly](Diagrams/SquareFrame.png)
 
-2. Connect the four 7.063" cross beams to form a cube. You use the same L-shape connector as you did earlier, however, you need to configure it in a slightly different way, which puts most of the L-shape connector on the outside of the cross beam. This orientation leaves more space inside the grooves for panels. Tighten all these l-connector screws. No need to overtighten them. (NOTE: We'll untighten one of the l-connectors at the end for the final panel). 
+2. Connect the four 7.063" cross beams to form a cube. You use the same L-shape connector as you did earlier, however, you need to configure it in a slightly different way, which puts most of the L-shape connector on the outside of the cross beam. This orientation leaves more space inside the grooves for panels. Tighten all these L-connector screws. No need to overtighten them. (NOTE: We'll untighten one of the L-connectors at the end for the final panel). 
 
 Also, make sure the two squares you made in Step 1 are oriented in the same way with respect to each other (see panel order diagram below)
 
@@ -154,7 +154,7 @@ Be sure you have the panel corners matching to the right interior corners for it
 
 ![Last panel](Diagrams/LoosenFinalPanel.png)
 
-5. Add the PC fans to PC fan panels using machine screws and bolts. For each fan, it should sit outside the frame, with the logo pointing inside (NOTE: This is counter-intuitive. The PRETTY side, i.e., the side with the nice company logo, points INSIDE), and a grill covering the outside. Ensure the connecting wires are inside the box. Try to arrange the fans so the fan wires are mostly together, which will make it easier to wire later. The machine screw should have the head outside on the grill, go through the grill hole, the fan, and the panel. Put the nut inside to hold it together. Add a washer if you like to protect the wood. (Note: In the diagram, I'm using 2 shorter screws + nuts, so just ignore that. I think 1 longer screw + 1 nut is better as it's fewer screws and easier to assemble.)
+5. Add the PC fans to PC fan panels using machine screws and bolts. For each fan, it should sit outside the frame, with the logo pointing inside (NOTE: This is counter-intuitive. The PRETTY side, i.e., the side with the nice company logo, points INSIDE), and a grille covering the outside. Ensure the connecting wires are inside the box. Try to arrange the fans so the fan wires are mostly together, which will make it easier to wire later. The machine screw should have the head outside on the grille, go through the grille hole, the fan, and the panel. Put the nut inside to hold it together. Add a washer if you like to protect the wood. (Note: In the diagram, I'm using 2 shorter screws + nuts, so just ignore that. I think 1 longer screw + 1 nut is better as it's fewer screws and easier to assemble.)
 
 ![Attaching the fan](Diagrams/FanAttach.jpg)
 
@@ -172,15 +172,15 @@ A high-level schematic of the wiring is here:
 
 ![Wiring diagram](Diagrams/WiringDiagram.jpg)
 
-8. Daisy-chain the fans together as much as you can. The five-pack of Artic fans should have extra ports to connect one fan to another. Daisy-chaining them saves you ports on the PWM Fan Hub and makes organizing wires easier, but you can always run the fan directly to the PWM Fan Hub. 
+8. Daisy-chain the fans together as much as you can. The five-pack of Arctic fans should have extra ports to connect one fan to another. Daisy-chaining them saves you ports on the PWM Fan Hub and makes organizing wires easier, but you can always run the fan directly to the PWM Fan Hub. 
 
 9. Connect the DC extension cable to the DC Barrel Adapter Mount inside. The PIR Motion Sensor should be on the outside with cables running inside through the small hole. One cable will connect to the DC extension cable and the other will connect to the DC Y Cable. From the Y Cable, you'll split into LED lighting and the PWM Fan Hub. All the fans will connect to each other and the hub.
 
-10. For the LED lighting, I like to run it on the panels with fans in a figure 8 pattern around both panels, sticking to the 1/2" gap between the panel and the filters, where it won't get in the way of the filters when inserted(see below). This provides indirect lighting when activated, giving the unit a glow. 
+10. For the LED lighting, I like to run it on the panels with fans in a figure 8 pattern around both panels, sticking to the 1/2" gap between the panel and the filters, where it won't get in the way of the filters when inserted (see below). This provides indirect lighting when activated, giving the unit a glow. 
 
 ![Filter holder over fans](Diagrams/filterholder.jpg)
 
-11. Ensure all the wiring is connected and nothing is near the fans. Plug in the AC/DC adapter in to test the wiring. Check for the following
+11. Ensure all the wiring is connected and nothing is near the fans. Plug in the AC/DC adapter in to test the wiring. Check for the following:
 - The unit should come on when the PIR sensor detects motion. 
 - The PC fans should all blow air outside, not inside.  
 - All the fans are spinning when motion is detected.
@@ -196,7 +196,7 @@ A high-level schematic of the wiring is here:
 
 16. Add the handles to the T-slot on the top of the unit as shown in the first picture.
 
-17. Also, you can add the end caps to the aluminum ends so that you don't scratch flooring or people. Once you add the end covers, you can't add anything else to the T-slot, so this is really the last step everything has gone well so far. 
+17. Also, you can add the end caps to the aluminum ends so that you don't scratch flooring or people. Once you add the end covers, you can't add anything else to the T-slot, so this is really the last step if everything has gone well so far. 
 
 18. Plug the unit in and ensure the PIR sensor is pointed at where there is most likely to be people, so it can come on when people are present. 
 
@@ -221,7 +221,7 @@ A high-level schematic of the wiring is here:
 
 ### Q: What is the clean air delivery rate (CADR) of this unit? 
 
-- A: I haven't tested it yet myself or had it tested by a reputable third party. Having similar dimensions and PC fan design (six P14 Artic PC fans) as the Nukit Tempest, it should have a similar CADR. 
+- A: I haven't tested it yet myself or had it tested by a reputable third party. Having similar dimensions and PC fan design (six P14 Arctic PC fans) as the Nukit Tempest, it should have a similar CADR. 
 
 ## Future Directions
 
@@ -239,6 +239,6 @@ Some changes I'd like to make in the future ...
 
 - [AirFanta Pro](https://www.amazon.com/AirFanta-based-Rosenthal-Purifier-3813ft2/dp/B0CJTYWQBT): Amazingly powerful and compact design using custom filters and PC fans, the 3Pro gets 430 CFM at full speed. It has a configurable adapter, which means if you don't mind the noise, you can crank it to max. However, if you want to limit the noise, you can lower the power. Importantly, this purifier is extremely portable -- you can pack it up inside a suitcase and take it with you. It's an absolute steal at $150, especially considering the amazing cleaning power. I own several of these and enthusiastically recommend them to others. In particular, in schools where noise might not be as much of an issue (e.g., cafeteria, common areas), I think this is likely the best bang-for-the-buck. In classrooms, you can also purchase two of them and turn them to half speed.
 
-- [CleanAirKits](https://www.cleanairkits.com/): The original DIY purifier kit builders, they offer many kit models with a lot of cleaning power using ultra-quiet PC fans. They've researched a ton of different PC fans and identified the good ones. I own several Tower of Power models and have recommended them often to friends. In fact, a luggable protects my dad when he's in the office meeting people. 
+- [CleanAirKits](https://www.cleanairkits.com/): The original DIY purifier kit builders, they offer many kit models with a lot of cleaning power using ultra-quiet PC fans. They've researched a ton of different PC fans and identified the good ones. I own several Tower of Power models and have recommended them often to friends. In fact, a Luggable protects my dad when he's in the office meeting people. 
 
 - My friend Tony, who recommended I check out aluminum frames for air purifiers and provided feedback. 
