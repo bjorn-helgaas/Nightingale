@@ -47,7 +47,7 @@ We use 1/4" unfinished plywood for the panels because it's an inexpensive, durab
 ### Glowforge Laser Cutter
 The Glowforge is a popular small laser cutter. The Glowforge size is slightly too small for the exact panel size that we need, so we break each panel into two parts -- the main part and a additional slat. 
 
-See the LaserCut/SmallLaser folder for SVG files. Note that two of the panels are duplicates and so you need to cut them twice. 
+See the [LaserCut/SmallLaser](LaserCut/SmallLaser) folder for SVG files. Note that two of the panels are duplicates and so you need to cut them twice. 
 
 ![Diagram of all panels](LaserCut/SmallLaser/AllPanels.png)
 
@@ -56,7 +56,8 @@ To minimize burning of the material, we highly recommend covering the top face o
 Also, I'm not perfectly happy with the fit of the panels in the split design, and when I make my next few, I'll probably tweak the size a bit. It's tricky: Too big and you risk not fitting into the grooves. Too small, and it wobbles more than I'd like. Feel free to measure it yourself and iterate to get your perfect panel fit. If you find a better fit, let me know. 
 
 ### Large Laser Cutter
-With a larger laser cutter, you can cut the entire panel in one piece. 
+With a larger laser cutter, you can cut the entire panel in one piece.  See the [LaserCut/LargeLaser](LaserCut/LargeLaser) folder for SVG files.
+
 ![Diagram of all panels](LaserCut/LargeLaser/AllPanels_Large.png)
 
 To minimize burning of the material, we highly recommend covering the material with masking tape. Also, after cutting, we recommend sanding edges and inside the holes to eliminate the smoke smell. You don't want a purifier that smells like smoke. 
@@ -69,15 +70,15 @@ Instead of laser cutting, you can use a CNC to cut the panels. This is preferred
 ## 3D Printed Components
 
 Required
-| Quantity | Item | Purpose | Filename | Image | 
-| ------ | ----- | -----| ----- | ------ | 
-| 8 |  Filter Holder | Because the fans are mounted outside, the filter needs something to rest against | 3dPrinted\FilterHolder.stl | ![Filter holder](3dPrinted/FilterHolder.png)
+| Quantity | Item | Purpose | 3D Model | Image | 
+| ------ | ----- | ----- | ----- | ------ | 
+| 8 |  Filter Holder | Because the fans are mounted outside, the filter needs something to rest against | [Filter Holder](3dPrinted/FilterHolder.stl) | ![Filter holder](3dPrinted/FilterHolder.png)
 
 Optional
-| Quantity | Item | Purpose | Filename | Image | 
-| ------ | ----- | -----| ----- | -------| 
-| 8 |  End Cap | Cover sharp edges / protect scratches | 3dPrinted\EndCap.stl | ![End Cap](3dPrinted/EndCap.png)
-| 1 | Grommet | Cover the hole where the motion sensor runs| 3dPrinter\Grommet-Laser.stl | ![Grommet](3dPrinted/Grommet-Laser.png)
+| Quantity | Item | Purpose | 3D Model | Image | 
+| ------ | ----- | ----- | ----- | ------ | 
+| 8 |  End Cap | Cover sharp edges / protect scratches | [End Cap](3dPrinted/EndCap.stl) | ![End Cap](3dPrinted/EndCap.png)
+| 1 | Grommet | Cover the hole where the motion sensor runs| [Grommet](3dPrinter/Grommet-Laser.stl) | ![Grommet](3dPrinted/Grommet-Laser.png)
 
 NOTE: The end cap is a standard part and can be obtained elsewhere from TNutz, 80/20, and Amazon. Ensure the cap is 1"x1" (10 series, aka 1010). Also, you can get a rubber grommet from a hardware store.
 
